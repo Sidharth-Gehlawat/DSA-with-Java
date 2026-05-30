@@ -1,7 +1,7 @@
 import java.util.*;
 public class Java_input {
   public static void main(String args[]) {
-    Scanner sc = new scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     System.out.print("Enter your number: ");
     int num = sc.nextInt();
     System.out.print("You entered: " + num);
@@ -12,4 +12,6 @@ public class Java_input {
     }
   }
 }
-    
+
+
+
