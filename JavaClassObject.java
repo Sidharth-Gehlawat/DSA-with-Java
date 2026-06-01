@@ -15,5 +15,6 @@ public class JavaClassObject {
         s1.age = 20;
 
         s1.display();
+        System.out.println("Thanks for using my program");
     }
 }
