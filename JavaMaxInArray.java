@@ -10,5 +10,6 @@ public class JavaMaxInArray {
         }
 
         System.out.println("Maximum = " + max);
+        System.out.println("Thanks for using my program");
     }
 }
