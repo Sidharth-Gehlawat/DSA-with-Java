@@ -12,5 +12,6 @@ public class JavaFactorial {
         }
 
         System.out.println("Factorial = " + fact);
+        System.out.println("Thanks for using my program");
     }
 }
